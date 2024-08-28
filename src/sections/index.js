@@ -8,6 +8,7 @@ import SpecialOffers from "./SpecialOffers"
 import Subscribe from "./Subscribe"
 
 
+
 export {
     Hero,PopularProducts,CustomerReviews,Footer,Services,SuperQuality
-    ,Subscribe,SpecialOffers}
+    ,Subscribe,SpecialOffers,}
