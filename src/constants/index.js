@@ -52,7 +52,7 @@ export const products = [
     },
 ];
 
-export const services = [
+export const  services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
